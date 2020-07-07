@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Anti Theft</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="brainstack_anti_theft">Brainstack Anti Theft</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="applications">Applications</string>
+    <string name="set_up_anti_theft">Anti Theft</string>
+    <string name="contact_us">Contact  Us</string>
+    <string name="vault">Vault</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_applications">Applications</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="lock">Lock</string>
+    <string name="default_app_name">App Name</string>
+    <string name="default_package_name">com.example.antitheft</string>
+    <string name="default_package_id">1.0</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+</resources>
