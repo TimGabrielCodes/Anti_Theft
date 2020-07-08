@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Anti Theft</string>
+    <string name="app_name">BrainStack Anti Theft</string>
     <string name="sign_in">Sign In</string>
     <string name="forgot_password">Forgot Password?</string>
     <string name="brainstack_anti_theft">Brainstack Anti Theft</string>
@@ -28,4 +28,6 @@
     <string name="default_package_id">1.0</string>
     <string name="password">Password</string>
     <string name="username">Username</string>
+    <string name="set_pattern">Set Pattern</string>
+
 </resources>
