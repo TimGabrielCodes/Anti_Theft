@@ -29,5 +29,6 @@
     <string name="password">Password</string>
     <string name="username">Username</string>
     <string name="set_pattern">Set Pattern</string>
+    <string name="draw_pattern_to_unlock">Draw Pattern To Unlock</string>
 
 </resources>
